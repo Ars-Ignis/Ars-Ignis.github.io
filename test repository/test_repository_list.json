@@ -1,0 +1,25 @@
+{
+	"name": "CodeGorilla's Packages",
+	"packages": [
+		{
+			"name": "Crystalis Randomizer (Latest)",
+			"author": "CodeGorilla",
+			"game_name": "Crystalis",
+			"version": "1.0.1",
+			"flags": ["map", "pins"],
+			"required_app_version": "2.3.8.14",
+			"uid": "test_crystalis_codegorilla",
+			"link": "https://ars-ignis.github.io/test_repository/crystalis_codegorilla.zip",
+			"variants": [
+				{
+					"name": "Items Only Tracker",
+					"flags": []
+				},
+				{
+					"name": "Map Tracker",
+					"flags": ["map", "pins"]
+				}
+			]
+		}
+	]
+}
