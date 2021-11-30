@@ -5,7 +5,7 @@
 			"name": "Crystalis Randomizer (Latest)",
 			"author": "CodeGorilla",
 			"game_name": "Crystalis",
-			"version": "1.0.1",
+			"version": "1.0.2",
 			"flags": ["map", "pins"],
 			"required_app_version": "2.3.8.14",
 			"uid": "crystalis_codegorilla",
