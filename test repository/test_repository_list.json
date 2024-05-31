@@ -5,7 +5,7 @@
 			"name": "Crystalis Randomizer (Test)",
 			"author": "CodeGorilla, TheSirArchibald",
 			"game_name": "Crystalis",
-			"version": "2.0.0",
+			"version": "2.0.1",
 			"flags": ["map", "pins", "chathud", "autotracker"],
 			"required_app_version": "2.3.8.14",
 			"uid": "crystalis_codegorilla_test",
