@@ -3,22 +3,30 @@
 	"packages": [
 		{
 			"name": "Crystalis Randomizer (Test)",
-			"author": "CodeGorilla",
+			"author": "CodeGorilla, TheSirArchibald",
 			"game_name": "Crystalis",
-			"version": "1.4.0",
-			"flags": ["map", "pins", "chathud"],
+			"version": "2.0.0",
+			"flags": ["map", "pins", "chathud", "autotracker"],
 			"required_app_version": "2.3.8.14",
 			"uid": "crystalis_codegorilla_test",
 			"link": "https://ars-ignis.github.io/test%20repository/crystalis_codegorilla_test.zip",
 			"documentation_url": "https://github.com/Ars-Ignis/crystalis-randomizer-tracker#readme",
 			"variants": [
 				{
-					"name": "Items Only Tracker",
+					"name": "Full Item Tracker",
 					"flags": []
+				},
+				{
+					"name": "Full Item Tracker Auto",
+					"flags": ["autotracker"]
 				},
 				{
 					"name": "Map Tracker",
 					"flags": ["map", "pins"]
+				},
+				{
+					"name": "Map Tracker Auto",
+					"flags": ["map", "pins", "autotracker"]
 				},
 				{
 					"name": "ChatHUD Compatible Map Tracker",
